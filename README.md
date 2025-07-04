@@ -2,6 +2,9 @@
 
 Sistema de gerenciamento de leads desenvolvido com .NET Core (back-end) e Angular (front-end).
 
+![image](https://github.com/user-attachments/assets/4e40844c-063f-4331-a0a0-11f52604263c)
+
+
 ## 🏗️ Arquitetura
 
 Este projeto é dividido em **dois repositórios separados**:
