@@ -45,7 +45,7 @@ LeadManagementFront/
 No repositório do back-end:
 ```bash
 # Windows
-start-backend.bat
+.\start-backend.bat
 
 # Linux/Mac
 chmod +x start-backend.sh
