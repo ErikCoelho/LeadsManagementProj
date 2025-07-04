@@ -9,8 +9,8 @@ Sistema de gerenciamento de leads desenvolvido com .NET Core (back-end) e Angula
 
 Este projeto é dividido em **dois repositórios separados**:
 
-- **Back-end**: API .NET Core + SQL Server
-- **Front-end**: Interface Angular + nginx
+- **Back-end**: API .NET Core + SQL Server (https://github.com/ErikCoelho/LeadsManagement)
+- **Front-end**: Interface Angular + nginx (https://github.com/ErikCoelho/LeadsManagementFront/blob/main/README.md)
 
 ## 📁 Estrutura dos Repositórios
 
